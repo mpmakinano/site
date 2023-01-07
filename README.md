@@ -8,3 +8,7 @@
     yarn
     yarn start
 ```
+
+## Resources
+
+[1] https://blog.logrocket.com/deploying-react-apps-github-pages/
